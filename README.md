@@ -1,3 +1,11 @@
+# install procedures
+
+https://drive.google.com/file/d/142ayXxiX0O7vN-ukIayB_iIqCKADqq-K/view?usp=sharing
+
+# demo vedio
+
+https://drive.google.com/file/d/1T08FoL7LMHU-kjSbFJ_H3Rr-Kjkw-22l/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +13,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+## node dependices
+
+npm install
+
+## api 
+
+rapid api exercisedb and youtube search and downlode  api's
 
 ### `npm start`
 
